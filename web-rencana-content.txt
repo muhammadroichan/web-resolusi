@@ -4,6 +4,7 @@ RENCANA KONTEN WEB
   * ES6
   * Framework Javascript
    ^ Vue
+   ^ React
 - Struktur Data Dasar  
 - PHP Framworks
  ^ Laravel
