@@ -1,6 +1,8 @@
 RENCANA KONTEN WEB
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Framworks
 - Interview
 - Vlogs
